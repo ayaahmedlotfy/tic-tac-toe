@@ -1,4 +1,5 @@
 # Tictactoe
+the first player to go places an X anywhere on the board, and then the next player will be able to place an O, and it continues alternating like this every turn and determine if any player won by getting 3 X's or O's in a diagonal, horizontal, or vertical row. If there is a winner, display a message at the top. If nobody wins, then do not display any message and the reset function that resets the entire board. also we not be able to override the other players move during the game. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.4.
 
